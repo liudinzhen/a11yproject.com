@@ -2309,6 +2309,12 @@
 	],
 	"visionSimulators": [
 		{
+			"title": "Color Blindness Simulator",
+			"description": "Compare an image across protan, deutan, tritan, and achromatopsia views with adjustable severity and grayscale difference maps. Image processing stays in the browser.",
+			"additional": "Color Blindness Simulator",
+			"url": "https://colorblindnesssimulator.com/"
+		},
+		{
 			"title": "Color Oracle",
 			"description": "Color Oracle takes the guesswork out of designing for color blindness by showing you in real time what people with common color vision impairments will see.",
 			"additional": "Bernie Jenny",
