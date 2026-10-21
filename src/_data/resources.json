@@ -2309,6 +2309,14 @@
 	],
 	"visionSimulators": [
 		{
+			"title": "Color Blindness Simulator",
+			"description": "Preview images with protan, deutan, tritan, and grayscale simulations. Compare original and simulated images with a grayscale difference view to locate color-dependent cues. Images stay in the browser. This tool does not diagnose vision or check WCAG conformance.",
+			"url": "https://colorvisionsimulator.com/",
+			"platforms": [
+				"Web"
+			]
+		},
+		{
 			"title": "Color Oracle",
 			"description": "Color Oracle takes the guesswork out of designing for color blindness by showing you in real time what people with common color vision impairments will see.",
 			"additional": "Bernie Jenny",
